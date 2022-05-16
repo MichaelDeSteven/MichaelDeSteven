@@ -4,8 +4,7 @@
 
 - 🧑🏻‍💻 &nbsp;Programmer
 - 🏫 I'm currently attending college at DGUT
-- 🔭 I’m currently working on a web framework
-- 🌱 I’m currently learning distributed/microservice
+- 🌱 I’m currently learning MIT6.824
 - ⚡ Go, Java, C/C++, ...
 
 <!-- - 🇨🇳 Chinese

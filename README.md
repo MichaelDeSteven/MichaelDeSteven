@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🧑🏻‍💻 &nbsp;Programmer
-- 🌱 I’m currently learning Distributed System&Cloud Native
-- ⚡ Go, Java, C/C++, ...
+- 🌱 I’m currently learning Big Data&Distributed System&Cloud Native
+- ⚡ Java, C/C++, Go ...
 <!-- GitHub奖杯🏆 -->
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=MichaelDeSteven&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
 <br>
